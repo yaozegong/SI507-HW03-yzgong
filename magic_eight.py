@@ -1,8 +1,9 @@
+
+f = open('ball_answer.txt', 'w')
 def func():
     print("what is your question?")
     x=input()
-    print("your question is")
-    print(x)
+    f.write(x)
 
 
 
