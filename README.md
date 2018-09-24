@@ -1,4 +1,7 @@
 # SI507-HW03-yzgong
-Yaoze Gong    UNIQUE NAME:yzgong
+Yaoze Gong (Part A)   UNIQUE NAME:yzgong
 35796  ID: yaozegong
-I did part A.
+
+
+
+Ryo Togami(Part B)  ID: Togaryo
